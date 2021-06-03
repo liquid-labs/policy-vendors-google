@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Liquid-Labs/policy-security-google/issues"
   },
-  "homepage": "https://github.com/Liquid-Labs/policy-security-google#readme"
+  "homepage": "https://github.com/Liquid-Labs/policy-security-google#readme",
+  "liq": {
+    "orgBase": "git@github.com:Liquid-Labs/Liquid-Labs.git"
+  }
 }
